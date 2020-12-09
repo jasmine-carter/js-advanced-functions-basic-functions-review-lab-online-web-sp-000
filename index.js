@@ -15,7 +15,7 @@ function wrapAdjective(highlight = "*") {
 
 
 const Calculator = {
-  add: function(num1, numb2){
+  add: function(num1, num2){
     return num1 + num2
   }
 }
