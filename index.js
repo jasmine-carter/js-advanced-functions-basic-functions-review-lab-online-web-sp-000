@@ -12,3 +12,6 @@ function wrapAdjective(highlight = "*") {
     return `You are ${highlight}${param}${highlight}!`
   }
 }
+
+
+let Object = {}
