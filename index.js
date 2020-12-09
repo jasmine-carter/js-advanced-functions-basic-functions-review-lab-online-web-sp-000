@@ -14,4 +14,4 @@ function wrapAdjective(highlight = "*") {
 }
 
 
-let Object = {}
+let Calculator = {}
