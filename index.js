@@ -28,3 +28,12 @@ const Calculator = {
     return num1 / num2
   }
 }
+
+function actionApplyer(int, arr) {
+  let a = start
+
+  for (let i = 0; i < arr.length; i++){
+    a = arr[i](a)
+  }
+  return a
+}
