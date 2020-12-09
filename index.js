@@ -30,7 +30,7 @@ const Calculator = {
 }
 
 function actionApplyer(int, arr) {
-  let a = start
+  let a = int
 
   for (let i = 0; i < arr.length; i++){
     a = arr[i](a)
